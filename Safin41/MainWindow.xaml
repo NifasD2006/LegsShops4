@@ -12,7 +12,7 @@
             <RowDefinition Height="300" ></RowDefinition>
             <RowDefinition Height="50" ></RowDefinition>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Row="0" HorizontalAlignment="Center" Text="41 размер" FontSize="50" ></TextBlock>
+        <TextBlock Grid.Row="0" HorizontalAlignment="Center" Text="411 размер" FontSize="50" ></TextBlock>
         <Button Grid.Row="0" HorizontalAlignment="Right" Content="Выход" Name="BackBtn" Click="BackBtn_Click" ></Button>
         <Image Grid.Row="0" Source="/res/logo.png" HorizontalAlignment="Left" />
         <Frame Grid.Row="1" Name="MainFrame" ContentRendered="MainFrame_ContentRendered" NavigationUIVisibility="Hidden" ></Frame>
